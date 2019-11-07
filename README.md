@@ -10,7 +10,6 @@ Formula i é um jogo arcade 2D, desenvolvido em unity e programado em C#.
 
 #### Software usados
 - Unity (2D)
-
 - Inkscape
 
 #### Linguagem de Programação
